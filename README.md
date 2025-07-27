@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A Flutter Developer</h3>
 
+---
+
 ### 🚀 Technologies I Use
 
 <p align="center">
@@ -18,11 +20,11 @@
 ---
 
 - 🌱 I’m currently learning **Flutter**
-- 👨‍💻 All of my projects are available at [https://github.com/joyanis-dev](https://github.com/joyanis-dev)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/joyanis-dev)
 - 💬 Ask me about **Flutter, Dart**
 - 📫 How to reach me: **joyanis.dev@gmail.com**
 - 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link)
-- ⚡ Fun fact: **I think I’m funny – and my code sometimes agrees**
+- ⚡ Fun fact: **I think I’m funny – and my code sometimes agrees 😄**
 
 ---
 
@@ -33,12 +35,4 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy-anis-dev" height="30" width="40" />
   </a>
   <a href="https://www.leetcode.com/joyanis00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="joyanis00" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" alt="Header animation" />
-</p>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master
