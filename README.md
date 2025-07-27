@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A Flutter Developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
-- 👨‍💻 All of my projects are available at [https://github.com/joyanis-dev](https://github.com/joyanis-dev)
-- 💬 Ask me about **Flutter, Dart**
-- 📫 How to reach me: **joyanis.dev@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link)
-- ⚡ Fun fact: **I think I’m funny – and my code sometimes agrees**
-
----
-
 ### 🚀 Technologies I Use
 
 <p align="center">
@@ -23,6 +14,15 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 </p>
+
+---
+
+- 🌱 I’m currently learning **Flutter**
+- 👨‍💻 All of my projects are available at [https://github.com/joyanis-dev](https://github.com/joyanis-dev)
+- 💬 Ask me about **Flutter, Dart**
+- 📫 How to reach me: **joyanis.dev@gmail.com**
+- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link)
+- ⚡ Fun fact: **I think I’m funny – and my code sometimes agrees**
 
 ---
 
