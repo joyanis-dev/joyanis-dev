@@ -12,7 +12,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link](https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I’m funny – and my code sometimes agrees**
-
+<img src "https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/joy-anis-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joy-anis-dev" height="30" width="40" /></a>
