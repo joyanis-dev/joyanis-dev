@@ -26,11 +26,10 @@
 ### 👩‍💻 About Me
 
 - 🌱 I’m currently learning **Flutter**
-- 💬 Ask me about **Flutter, Dart**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/joyanis-dev)
 - 📫 Reach me at: **joyanis.dev@gmail.com**
 - 📄 My resume: [Click here](https://drive.google.com/file/d/1vOIkCWIuZMDo7kfmRGjWqhh3OGWVhoPV/view?usp=drive_link)
-- ⚡ Fun fact: *I think I’m funny – and my code sometimes agrees 😄*
+
 
 ---
 
