@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Joy</h1>
 <h3 align="center">A Passionate Flutter Developer</h3>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213760677-e45ca5f7-d1aa-4c2c-91e0-573819287304.gif" width="200"/>
-</p>
-
 ---
 
 ### 🚀 Technologies I Use
